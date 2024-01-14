@@ -1,0 +1,21 @@
+{
+  "name": "expense_tracker",
+  "version": "1.0.0",
+  "description": "This is my first MERN project, in which I will be working on expense tracker application. This is sort of guided project and I wish to make changes to it as I proceed forward in my learning journey.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "mongodb",
+    "mongoose",
+    "react",
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "KJ",
+  "license": "ISC"
+}
